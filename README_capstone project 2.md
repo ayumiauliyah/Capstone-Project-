@@ -131,4 +131,5 @@ Rekomendasi:
 
 Note:
 Link Tableau Public : https://public.tableau.com/views/AirbnbBangkokAnalysis_17645148705180/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Link Canva : https://www.canva.com/design/DAG5-S0-JIE/hp_fE3q8pXm7R4-onwHUjQ/edit?utm_content=DAG5-S0-JIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
